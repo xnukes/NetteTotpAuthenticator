@@ -1,8 +1,10 @@
 # Oops/TotpAuthenticator
 
-## 🏚️ THIS PROJECT HAS BEEN ABANDONED
+## 🏚️ THIS PROJECT HAS BEEN OUT OF DATE
 
 Please use https://github.com/jiripudil/otp for an up-to-date, more feature-rich implementation of one-time passwords.
+
+## FORKED AND FIX PHP VERSION 8.X
 
 ---
 
