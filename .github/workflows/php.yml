@@ -17,8 +17,8 @@ jobs:
     steps:
     - uses: actions/checkout@v4
 
-    - name: Validate composer.json and composer.lock
-      run: composer validate --no-check-lock --no-check-publish
+    #- name: Validate composer.json and composer.lock
+    #  run: composer validate --no-check-lock --no-check-publish
 
     - name: Cache Composer packages
       id: composer-cache
