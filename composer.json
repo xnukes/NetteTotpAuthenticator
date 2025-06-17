@@ -1,5 +1,5 @@
 {
-	"name": "oops/totp-authenticator",
+	"name": "xnukes/NetteTotpAuthenticator",
 	"description": "Two-factor authenticator via TOTP algorithm.",
 	"keywords": ["security", "authentication", "2fa", "totp"],
 	"type": "library",
@@ -9,14 +9,19 @@
 			"name": "Jiří Pudil",
 			"email": "me@jiripudil.cz",
 			"homepage": "http://jiripudil.cz"
+		},
+		{
+			"name": "Lukáš Vlček",
+			"email": "info@itwolf.cz",
+			"homepage": "http://itwolf.cz"
 		}
 	],
 	"support": {
-		"email": "me@jiripudil.cz",
-		"issues": "https://github.com/o2ps/TotpAuthenticator/issues"
+		"email": "l.vlcek@icloud.cz",
+		"issues": "https://github.com/xnukes/NetteTotpAuthenticator/issues"
 	},
 	"require": {
-		"php": "^7.2",
+		"php": ">=7.2.0 <8.2",
 		"paragonie/constant_time_encoding": "^2.0"
 	},
 	"require-dev": {
